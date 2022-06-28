@@ -5,6 +5,8 @@ Program Assignment 1 for CSS449 Algorithm Design and Analysis
 People will be adopting pets. Each person will adopt exactly one pet and each pet will be adopted by exactly one person. Both people and pets have preference lists that you will read from a file. Implement the Gale-Shapley algorithm for stable matching with an O(n^2) running time.
 
 ## File Format
+- <p style="color:red">Hi</p>
+- Must be named `program1data.txt`
 - Line 1: Number of people/pets (n)
 - Lines 2 to n+1: Names of people
 - Lines n+2 to 2n+1: Preference lists of people using indices, not names (n preferences per line)
